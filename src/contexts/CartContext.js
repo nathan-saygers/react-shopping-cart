@@ -1,6 +1,6 @@
 import React, {createContext} from 'react';
 
-const ProductContext = () => {
+const CartContext = () => {
 
   return(
     <div>
@@ -8,4 +8,4 @@ const ProductContext = () => {
   )
 }
 
-export default ProductContext;
+export default CartContext;
